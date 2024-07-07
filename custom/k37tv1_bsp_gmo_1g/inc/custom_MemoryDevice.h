@@ -105,8 +105,11 @@
 #define BOARD_ID                MT6735_EVB
 
 
-#define CS_PART_NUMBER[0]       H8G4u
-#define CS_PART_NUMBER[1]       H8G4u
+#define CS_PART_NUMBER[0]      QN16MB
+#define CS_PART_NUMBER[1]      H8G4u
+#define CS_PART_NUMBER[2]      Q316BB
+#define CS_PART_NUMBER[3]      FN12MB
+#define CS_PART_NUMBER[4]      QN16BB
 
 //#define CS_PART_NUMBER[1]       KMQ8X000SA_B414
 
