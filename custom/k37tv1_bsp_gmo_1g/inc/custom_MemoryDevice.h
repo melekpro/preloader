@@ -104,8 +104,10 @@
 
 #define BOARD_ID                MT6735_EVB
 
-#define CS_PART_NUMBER[0]       H8G4u
-#define CS_PART_NUMBER[1]       H8G4u	
+
+#define CS_PART_NUMBER[0]       H9TQ64A8GTMCUR_KUM
+#define CS_PART_NUMBER[1]       H9TQ17ABJTMCUR_KUM
+
 //#define CS_PART_NUMBER[1]       KMQ8X000SA_B414
 
 #endif /* __CUSTOM_MEMORYDEVICE__ */
